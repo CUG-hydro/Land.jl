@@ -30,6 +30,7 @@ WaterPhysics = "20dd5ee6-61da-454b-ac5d-c09c2977e03a"
 [compat]
 CanopyRadiativeTransfer = "0.2.3"
 ClimaCache = "1.1.8"
+ConstrainedRootSolvers = "0.1"
 EmeraldConstants = "0.1.0"
 LeafOptics = "0.3.4"
 Photosynthesis = "0.4.6"
